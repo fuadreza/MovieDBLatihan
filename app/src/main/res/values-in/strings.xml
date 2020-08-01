@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tonton Filmku</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="search">Cari</string>
+    <string name="title_activity_home">Beranda</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Dasbor</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="title_now_playing">Sedang Tayang</string>
+    <string name="title_upcoming">Akan Datang</string>
+    <string name="title_search">Cari</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="appwidget_text">CONTOH</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="action_notification">Notifikasi</string>
+    <string name="daily_reminder">Notifikasi Harian</string>
+    <string name="release_today_reminder">Notifikasi Film Rilis Hari ini</string>
+</resources>
